@@ -1,4 +1,12 @@
-* {
-    background-color: yellow;
-    color: slategray;
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #fefc01;
+    height: 100vh;
+}
+
+.app_body {
+
 }
