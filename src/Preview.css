@@ -1,0 +1,19 @@
+.preview{
+    position: relative;
+}
+
+.preview-close {
+    position: absolute;
+    top: 0px;
+    margin: 5px;
+    right: 0px;
+    width: 30px;
+    height: 30px;
+    background: white;   
+    border-radius: 50%; 
+    text-align: center; 
+    line-height: 30px;
+    font-size: 18px;
+    color: black;    
+    cursor: pointer;
+}
